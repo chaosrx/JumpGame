@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: eaca71d95bda3495d9894652d4729440
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerRun_0
+    21300002: PlayerRun_1
+    21300004: PlayerRun_2
+    21300006: PlayerRun_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: PlayerRun_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 204
+        height: 169
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.880005, y: 83.5}
+        - {x: -11.880005, y: 72.5}
+        - {x: -146.88, y: 30.5}
+        - {x: -146.88, y: -3.5}
+        - {x: -139.88, y: -14.5}
+        - {x: -115.880005, y: -31.5}
+        - {x: -63.880005, y: -76.5}
+        - {x: -30.880005, y: -84.5}
+        - {x: 42.119995, y: -84.5}
+        - {x: 56.119995, y: -27.5}
+        - {x: 56.119995, y: 82.5}
+        - {x: 54.119995, y: 83.5}
+    - name: PlayerRun_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 198
+        height: 172
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.56, y: 86}
+        - {x: -142.56, y: 40}
+        - {x: -142.56, y: -44}
+        - {x: -69.56, y: -86}
+        - {x: 20.440002, y: -86}
+        - {x: 55.440002, y: -34}
+        - {x: 55.440002, y: 86}
+    - name: PlayerRun_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 192
+        height: 174
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.23999, y: 87}
+        - {x: -138.23999, y: 63}
+        - {x: -138.23999, y: 1}
+        - {x: -87.23999, y: -87}
+        - {x: 9.76001, y: -87}
+        - {x: 53.76001, y: -61}
+        - {x: 53.76001, y: 66}
+        - {x: 22.76001, y: 87}
+    - name: PlayerRun_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 4
+        width: 188
+        height: 172
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.640015, y: 86}
+        - {x: -18.359985, y: 86}
+        - {x: -135.35999, y: 58}
+        - {x: -135.35999, y: 24}
+        - {x: -126.359985, y: 5}
+        - {x: -77.359985, y: -71}
+        - {x: -31.359985, y: -86}
+        - {x: 20.640015, y: -86}
+        - {x: 52.640015, y: -6}
+        - {x: 52.640015, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

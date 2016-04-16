@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 0ea0a070e763545bbb8752331ecf8c6d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerDash_0
+    21300002: PlayerDash_1
+    21300004: PlayerDash_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: PlayerDash_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 216
+        height: 152
+      alignment: 9
+      pivot: {x: 0.62, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.08, y: 80.56}
+        - {x: -14.919998, y: 80.56}
+        - {x: -11.919998, y: 65.56}
+        - {x: -117.92, y: 51.559998}
+        - {x: -121.92, y: 44.559998}
+        - {x: -133.92, y: 45.559998}
+        - {x: -133.92, y: -3.4400024}
+        - {x: -126.92, y: -9.440002}
+        - {x: -106.92, y: -18.440002}
+        - {x: -102.92, y: -18.440002}
+        - {x: -93.92, y: -14.440002}
+        - {x: -93.92, y: -18.440002}
+        - {x: -124.92, y: -18.440002}
+        - {x: -133.92, y: -12.440002}
+        - {x: -133.92, y: -53.440002}
+        - {x: -69.92, y: -71.44}
+        - {x: 46.08, y: -71.44}
+        - {x: 82.08, y: -58.440002}
+        - {x: 82.08, y: 55.559998}
+        - {x: 79.08, y: 74.56}
+    - name: PlayerDash_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 215
+        height: 152
+      alignment: 9
+      pivot: {x: 0.62, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.29999, y: 80.56}
+        - {x: -133.29999, y: -54.440002}
+        - {x: -82.29999, y: -71.44}
+        - {x: 54.700012, y: -71.44}
+        - {x: 69.70001, y: -66.44}
+        - {x: 81.70001, y: -52.440002}
+        - {x: 81.70001, y: 61.559998}
+        - {x: 56.700012, y: 80.56}
+    - name: PlayerDash_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 20
+        width: 216
+        height: 154
+      alignment: 9
+      pivot: {x: 0.62, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.919983, y: 81.62}
+        - {x: -13.919983, y: 64.62}
+        - {x: -116.91998, y: 53.620003}
+        - {x: -118.91998, y: 46.620003}
+        - {x: -115.91998, y: 45.620003}
+        - {x: -120.91998, y: 31.620003}
+        - {x: -120.91998, y: 28.620003}
+        - {x: -118.91998, y: 26.620003}
+        - {x: -133.91998, y: 14.620003}
+        - {x: -133.91998, y: 1.6200027}
+        - {x: -131.91998, y: -2.3799973}
+        - {x: -106.91998, y: -15.379997}
+        - {x: -95.91998, y: -15.379997}
+        - {x: -122.91998, y: -16.379997}
+        - {x: -124.91998, y: -18.379997}
+        - {x: -124.91998, y: -20.379997}
+        - {x: -122.91998, y: -22.379997}
+        - {x: -133.91998, y: -44.379997}
+        - {x: -133.91998, y: -51.379997}
+        - {x: -81.91998, y: -72.38}
+        - {x: 66.08002, y: -72.38}
+        - {x: 82.08002, y: -67.38}
+        - {x: 82.08002, y: 42.620003}
+        - {x: 80.08002, y: 52.620003}
+        - {x: 44.080017, y: 77.62}
+        - {x: 19.080017, y: 81.62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

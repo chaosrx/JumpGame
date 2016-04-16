@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: a289b6b4c94ab40fd83f4ba583846192
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerWalk_0
+    21300002: PlayerWalk_1
+    21300004: PlayerWalk_2
+    21300006: PlayerWalk_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: PlayerWalk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 159
+        height: 169
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.48, y: 84.5}
+        - {x: -114.48, y: 11.5}
+        - {x: -44.480003, y: -84.5}
+        - {x: -31.480003, y: -84.5}
+        - {x: -19.480003, y: -73.5}
+        - {x: -20.480003, y: -68.5}
+        - {x: -27.480003, y: -61.5}
+        - {x: -12.480003, y: -75.5}
+        - {x: 0.51999664, y: -84.5}
+        - {x: 44.519997, y: -84.5}
+        - {x: 44.519997, y: 84.5}
+    - name: PlayerWalk_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 160
+        height: 171
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.20001, y: 85.5}
+        - {x: -114.20001, y: 63.5}
+        - {x: -115.20001, y: 62.5}
+        - {x: -115.20001, y: 11.5}
+        - {x: -36.200012, y: -85.5}
+        - {x: 44.799988, y: -85.5}
+        - {x: 44.799988, y: 74.5}
+        - {x: 36.799988, y: 85.5}
+    - name: PlayerWalk_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 163
+        height: 171
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.360016, y: 85.5}
+        - {x: -96.360016, y: 76.5}
+        - {x: -117.360016, y: 65.5}
+        - {x: -117.360016, y: -32.5}
+        - {x: -53.360016, y: -85.5}
+        - {x: 23.639984, y: -85.5}
+        - {x: 45.639984, y: -78.5}
+        - {x: 45.639984, y: 46.5}
+        - {x: 23.639984, y: 85.5}
+    - name: PlayerWalk_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5
+        width: 167
+        height: 169
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.23999, y: 84.5}
+        - {x: -118.23999, y: 59.5}
+        - {x: -120.23999, y: 57.5}
+        - {x: -120.23999, y: 22.5}
+        - {x: -102.23999, y: -19.5}
+        - {x: -48.23999, y: -84.5}
+        - {x: 46.76001, y: -84.5}
+        - {x: 46.76001, y: 78.5}
+        - {x: 35.76001, y: 84.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

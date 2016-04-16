@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 11a27d1c270904364b3ce39124193dfb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerLadder_0
+    21300002: PlayerLadder_1
+    21300004: PlayerLadder_2
+    21300006: PlayerLadder_3
+    21300008: PlayerLadder_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerLadder_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 157
+        height: 185
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.080002, y: -76.5}
+        - {x: -45.08, y: -63.5}
+        - {x: -52.08, y: -63.5}
+        - {x: -57.08, y: -70.5}
+        - {x: -57.08, y: -88.5}
+        - {x: -55.08, y: -92.5}
+        - {x: -27.080002, y: -92.5}
+        - {x: -20.080002, y: -90.5}
+        - {x: -19.080002, y: -87.5}
+        - {x: -19.080002, y: -83.5}
+      - - {x: 87.92, y: 24.5}
+        - {x: 65.92, y: 92.5}
+        - {x: -43.08, y: 92.5}
+        - {x: -69.08, y: 56.5}
+        - {x: -69.08, y: -28.5}
+        - {x: -57.08, y: -56.5}
+        - {x: -13.080002, y: -75.5}
+        - {x: 12.919998, y: -75.5}
+        - {x: 50.92, y: -60.5}
+        - {x: 83.92, y: -12.5}
+        - {x: 87.92, y: -2.5}
+    - name: PlayerLadder_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 156
+        height: 178
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.64, y: -59}
+        - {x: -47.64, y: -59}
+        - {x: -57.64, y: -63}
+        - {x: -57.64, y: -89}
+        - {x: -28.64, y: -89}
+        - {x: -18.64, y: -85}
+        - {x: -18.64, y: -77}
+      - - {x: 53.36, y: 89}
+        - {x: -48.64, y: 89}
+        - {x: -68.64, y: 36}
+        - {x: -68.64, y: -60}
+        - {x: -44.64, y: -79}
+        - {x: 53.36, y: -79}
+        - {x: 87.36, y: -47}
+        - {x: 87.36, y: 11}
+        - {x: 82.36, y: 12}
+    - name: PlayerLadder_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16
+        width: 153
+        height: 176
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.67999, y: 10}
+        - {x: 81.67999, y: 30}
+        - {x: 52.679993, y: 88}
+        - {x: -48.320007, y: 88}
+        - {x: -67.32001, y: 43}
+        - {x: -67.32001, y: -20}
+        - {x: -60.320007, y: -85}
+        - {x: -55.320007, y: -87}
+        - {x: 50.679993, y: -87}
+        - {x: 85.67999, y: -38}
+        - {x: 85.67999, y: 9}
+        - {x: 83.67999, y: 10}
+    - name: PlayerLadder_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 12
+        width: 150
+        height: 185
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -62.5}
+        - {x: 13, y: -74.5}
+        - {x: 13, y: -82.5}
+        - {x: 18, y: -92.5}
+        - {x: 47, y: -92.5}
+        - {x: 47, y: -62.5}
+      - - {x: 43, y: 92.5}
+        - {x: -53, y: 92.5}
+        - {x: -66, y: 60.5}
+        - {x: -66, y: -67.5}
+        - {x: -30, y: -75.5}
+        - {x: 19, y: -75.5}
+        - {x: 84, y: -20.5}
+        - {x: 84, y: 17.5}
+        - {x: 76, y: 13.5}
+    - name: PlayerLadder_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2
+        width: 151
+        height: 196
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.559998, y: -69}
+        - {x: 18.559998, y: -74}
+        - {x: 12.559998, y: -85}
+        - {x: 12.559998, y: -92}
+        - {x: 20.559998, y: -98}
+        - {x: 39.559998, y: -98}
+        - {x: 46.559998, y: -88}
+        - {x: 46.559998, y: -80}
+        - {x: 41.559998, y: -69}
+      - - {x: 79.56, y: 22}
+        - {x: 44.559998, y: 98}
+        - {x: -50.440002, y: 98}
+        - {x: -66.44, y: 81}
+        - {x: -66.44, y: -49}
+        - {x: -39.440002, y: -70}
+        - {x: 9.559998, y: -70}
+        - {x: 46.559998, y: -51}
+        - {x: 84.56, y: -4}
+        - {x: 84.56, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
